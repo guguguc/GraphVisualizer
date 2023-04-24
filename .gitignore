@@ -1,0 +1,14 @@
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.recipe
+.swo
+.swp
+*.exe
+*.txt
+**/temp/
+**/.vs/
+**/Debug/
+**/Release/
